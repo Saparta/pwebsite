@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Personal Portfolio Website</title>
+    <!----CSS link----->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <nav>
+        <img src="./images/logo_w.png"
+         class="logo" />
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        <a href="#" class="btn">Resume</a>
+      </nav>
+
+      <div class="content">
+        <span class="title"></span>
+        <h1>Hello, I’m <span>Stephen Syl-Akinwale</span></h1>
+        <p> This is my personal website. I run this website. 
+          I hope to make it grow and add more projects as I grow
+        </p>
+        <a href="#" class="btn">Download CV</a>
+      </div>
+    </div>
+  </body>
+</html>

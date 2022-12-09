@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../cuprod_web"
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "c:\\Users\\Steph\\OneDrive\\Documents\\pwebsite\\index.html",
+		"ocaml.sandbox": {
+			"kind": "global"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "cuprod_web"
+	}
+}
